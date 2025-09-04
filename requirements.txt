@@ -1,0 +1,8 @@
+Django
+pdfplumber 
+sentence-transformers 
+supabase
+huggingface
+python-dotenv
+whitenoise
+gunicorn
